@@ -1,0 +1,17 @@
+# Archivos locales con credenciales
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Residuos del sistema y del editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Development outputs
+dist/
+__pycache__/
+*.py[cod]
+.venv/
