@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project kickoff"
+  short_description: "Inicializa proyectos con Git y contexto para agentes"
+  default_prompt: "Usa $project-kickoff para inicializar el proyecto local y reunir su contexto."
