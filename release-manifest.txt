@@ -1,0 +1,12 @@
+SKILL.md
+INSTALL.md
+agents/openai.yaml
+references/dependencies.md
+assets/en/README.template.md
+assets/en/AGENTS.template.md
+assets/en/BRAND_IDENTITY.template.md
+assets/en/DESIGN.template.md
+assets/es/README.template.md
+assets/es/AGENTS.template.md
+assets/es/BRAND_IDENTITY.template.md
+assets/es/DESIGN.template.md
