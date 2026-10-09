@@ -89,3 +89,7 @@ The [release workflow](.github/workflows/release.yml) validates, tests, builds a
 publishes the ZIP/checksum using an existing tag and `GITHUB_TOKEN` with `contents: write`.
 No personal token or external release service is needed. CI validates pull requests
 and branch pushes. Local builds do not publish releases; the skill creates no remote/tag.
+
+To release an existing tag whose push did not start a run, use the release workflow's
+manual **Run workflow** action and provide that tag. The workflow checks out and
+packages the selected tag without moving it.

@@ -25,7 +25,9 @@ class ReleaseTests(unittest.TestCase):
             self.assertIn('python -m unittest discover -s tests -v', commands)
             self.assertIn('python scripts/build_release.py', commands)
         publish = release['jobs']['release']['steps'][-1]
-        self.assertEqual(publish['env']['RELEASE_TAG'], '${{ github.ref_name }}')
+        self.assertEqual(publish['env']['RELEASE_TAG'], '${{ inputs.tag || github.ref_name }}')
+        self.assertIn('workflow_dispatch', release['on'])
+        self.assertEqual(release['jobs']['release']['steps'][0]['with']['ref'], '${{ inputs.tag || github.ref }}')
         self.assertIn('--verify-tag', publish['run'])
         self.assertIn('.zip.sha256', publish['run'])
 
