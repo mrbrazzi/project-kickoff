@@ -14,9 +14,9 @@ colors:
 
 # {{Nombre de marca o proyecto}}
 
-> Category: {{Categoría, coherente con el frontmatter}}
+> Categoría: {{Categoría, coherente con el frontmatter}}
 
-> Surface: {{Superficie, coherente con el frontmatter}}
+> Superficie: {{Superficie, coherente con el frontmatter}}
 
 *{{Mensaje guía confirmado o propuesta identificada; omitir si no existe.}}*
 
@@ -24,9 +24,9 @@ colors:
 Enlazar BRAND_IDENTITY.md si existe. Los tokens null indican decisiones pendientes;
 sustituirlos por valores aprobados y reflejarlos también en la tabla.}}
 
-## Color Palette
+## Paleta de colores
 
-| Role | Name | Hex | Usage |
+| Rol | Nombre | Hex | Uso |
 | --- | --- | --- | --- |
 | background | {{Nombre}} | {{Hex aprobado o Por decidir}} | {{Uso o No aplicable}} |
 | surface | {{Nombre}} | {{Hex aprobado o Por decidir}} | {{Uso o No aplicable}} |
@@ -42,39 +42,39 @@ sustituirlos por valores aprobados y reflejarlos también en la tabla.}}
 añadirlos también al mapa colors. Comprobar legibilidad y contrastes cuando aplique;
 no afirmar que fueron medidos sin evidencia.}}
 
-## Typography
+## Tipografía
 
-- **Display:** {{Familia, pesos y fallbacks aprobados o decisiones pendientes.}}
-- **Body:** {{Familia, pesos y fallbacks aprobados o decisiones pendientes.}}
+- **Titulares:** {{Familia, pesos y fallbacks aprobados o decisiones pendientes.}}
+- **Cuerpo:** {{Familia, pesos y fallbacks aprobados o decisiones pendientes.}}
 
-## Voice & Tone
+## Voz y tono
 
-- **Adjectives:** {{Rasgos de la marca confirmados.}}
-- **Tone:** {{Regla operativa y adaptación al contexto.}}
+- **Adjetivos:** {{Rasgos de la marca confirmados.}}
+- **Tono:** {{Regla operativa y adaptación al contexto.}}
 
-### Messaging pillars
+### Pilares de comunicación
 
 {{Mensajes clave coherentes con BRAND_IDENTITY.md cuando exista; marcar propuestas.}}
 
-### Vocabulary
+### Vocabulario
 
-- **Use:** {{Vocabulario recomendado.}}
-- **Avoid:** {{Expresiones que deben evitarse.}}
+- **Usar:** {{Vocabulario recomendado.}}
+- **Evitar:** {{Expresiones que deben evitarse.}}
 
-## Imagery
+## Imágenes
 
-- **Style:** {{Estilo o criterios visuales; no imponer una estética.}}
-- **Subjects:** {{Sujetos pertinentes, sin inventar personas o activos existentes.}}
-- **Treatment:** {{Dirección de arte y tratamiento.}}
-- **Avoid:** {{Exclusiones acordadas.}}
+- **Estilo:** {{Estilo o criterios visuales; no imponer una estética.}}
+- **Sujetos:** {{Sujetos pertinentes, sin inventar personas o activos existentes.}}
+- **Tratamiento:** {{Dirección de arte y tratamiento.}}
+- **Evitar:** {{Exclusiones acordadas.}}
 
-## Layout
+## Composición
 
-- **Radius:** {{Valor con unidad o Por decidir/No aplicable.}}
-- **Border weight:** {{Valor con unidad o Por decidir/No aplicable.}}
-- **Spacing:** {{Sistema y unidades según la superficie o Por decidir.}}
+- **Radio:** {{Valor con unidad o Por decidir/No aplicable.}}
+- **Grosor de borde:** {{Valor con unidad o Por decidir/No aplicable.}}
+- **Espaciado:** {{Sistema y unidades según la superficie o Por decidir.}}
 
-### Posture rules
+### Reglas de composición
 
 {{Reglas de densidad, jerarquía, composición y comportamiento para las superficies
 elegidas. No asumir tarjetas, glassmorphism, modo oscuro o animaciones. Indicar

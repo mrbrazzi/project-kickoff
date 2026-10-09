@@ -11,7 +11,7 @@ propuesta de valor. No inventar biografía, credenciales o resultados comerciale
 
 - **Quién es:** {{Contexto y estado actual de la marca, producto u organización.}}
 - **Diferenciación principal:** {{Diferenciación respaldada por contexto o propuesta señalada como tal.}}
-- **Storytelling:** {{Origen y relato relevante; indicar si no aplica.}}
+- **Relato de marca:** {{Origen y relato relevante; indicar si no aplica.}}
 - **Coherencia:** {{Relación entre capacidades, promesa y percepción deseada.}}
 
 ## 3. Posicionamiento Recomendado
@@ -34,7 +34,7 @@ propuesta de valor. No inventar biografía, credenciales o resultados comerciale
 - **Voz y Tono:** {{Personalidad y adaptación al contexto.}}
 - **Palabras frecuentes recomendadas:** {{Vocabulario propio.}}
 - **Palabras a evitar:** {{Expresiones incompatibles con la marca.}}
-- **Ejemplos (Do's vs Don'ts):**
+- **Ejemplos recomendados y a evitar:**
   - *Evitar:* {{Ejemplo contextual.}}
   - *Recomendado:* {{Ejemplo coherente, sin promesas no demostradas.}}
 
@@ -51,7 +51,7 @@ propuesta de valor. No inventar biografía, credenciales o resultados comerciale
 {{Si se necesita logotipo, plantear rutas fundamentadas. Si no, indicar no aplicable
 y el motivo; retirar la tabla sin rellenarla con opciones ficticias.}}
 
-| Ruta Visual | Concepto & Transmisión | Elementos Gráficos | Riesgos | Cuándo usar |
+| Ruta Visual | Concepto y transmisión | Elementos Gráficos | Riesgos | Cuándo usar |
 | --- | --- | --- | --- | --- |
 | {{Ruta propuesta}} | {{Concepto}} | {{Elementos}} | {{Riesgos}} | {{Aplicación}} |
 

@@ -1,4 +1,4 @@
 interface:
   display_name: "Project kickoff"
-  short_description: "Inicializa proyectos con Git y contexto para agentes"
-  default_prompt: "Usa $project-kickoff para inicializar el proyecto local y reunir su contexto."
+  short_description: "Set up local projects with Git and bilingual documents"
+  default_prompt: "Use $project-kickoff to initialize this local project and ask whether its documents should be in English or Spanish."
