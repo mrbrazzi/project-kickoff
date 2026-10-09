@@ -1,5 +1,6 @@
 SKILL.md
 INSTALL.md
+LICENSE
 agents/openai.yaml
 references/dependencies.md
 assets/en/README.template.md

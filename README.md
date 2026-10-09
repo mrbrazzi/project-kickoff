@@ -33,6 +33,7 @@ Any local agent with file access can read the installed SKILL.md directly.
 <skills-directory>/project-kickoff/
 ├── SKILL.md
 ├── INSTALL.md
+├── LICENSE
 ├── agents/openai.yaml
 ├── references/dependencies.md
 └── assets/

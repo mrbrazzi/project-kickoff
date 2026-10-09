@@ -37,7 +37,7 @@ def runtime_files(root=ROOT):
 def validate(root=ROOT):
     root = root.resolve()
     entries = runtime_files(root)
-    required = {'SKILL.md', 'INSTALL.md', 'agents/openai.yaml', 'references/dependencies.md'}
+    required = {'SKILL.md', 'INSTALL.md', 'LICENSE', 'agents/openai.yaml', 'references/dependencies.md'}
     required.update(f'assets/{locale}/{name}.template.md' for locale in ('en', 'es') for name in DOCUMENTS)
     if set(entries) != required:
         raise ValueError('Runtime manifest differs from the required installable package')
